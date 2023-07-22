@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 3.33rem;
+    font-weight: 700;
+    color: #3957f1;
+}
+
+main h2{
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.5rem;
+    color: #15163d;
+}
